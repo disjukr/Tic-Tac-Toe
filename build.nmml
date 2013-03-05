@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<app title="Tic-Tac-Toe" file="TicTacToe" main="TicTacToe"/>
+	<window width="300" height="300" fps="60" resizable="false"/>
+	<set name="BUILD_DIR" value="bin"/>
+	<classpath name="src"/>
+	<haxelib name="nme"/>
+</project>
